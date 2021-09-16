@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopendkp_docs=self.webpackChunkopendkp_docs||[]).push([[990],{9198:function(s){s.exports=JSON.parse('{"allTagsPath":"/opendkp-docs/blog/tags","slug":"/opendkp-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/opendkp-docs/blog/tags/docusaurus"}')}}]);

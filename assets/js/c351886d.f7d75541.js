@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopendkp_docs=self.webpackChunkopendkp_docs||[]).push([[526],{3697:function(o){o.exports=JSON.parse('{"allTagsPath":"/opendkp-docs/blog/tags","slug":"/opendkp-docs/blog/tags/hello","name":"hello","count":2,"permalink":"/opendkp-docs/blog/tags/hello"}')}}]);
