@@ -7,13 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'OpenDKP Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://opendkp.com',
-  baseUrl: '/',
+  baseUrl: '/opendkp-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'moncleared', // Usually your GitHub org/user name.
   projectName: 'opendkp-docs', // Usually your repo name.
-  trailingSlash: true,
   presets: [
     [
       '@docusaurus/preset-classic',
