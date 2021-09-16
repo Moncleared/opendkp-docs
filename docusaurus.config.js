@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'moncleared', // Usually your GitHub org/user name.
   projectName: 'opendkp-docs', // Usually your repo name.
-
+  trailingSlash: true,
   presets: [
     [
       '@docusaurus/preset-classic',
